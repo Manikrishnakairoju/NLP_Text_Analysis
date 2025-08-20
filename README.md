@@ -1,4 +1,6 @@
-# NLP_Text_Analysis 
+# NLP_Text Classification_Supervised Learning
+
+Analysis 
 
 Used popular IMDB dataset for this analysis
 TASKS COMPLETED:
